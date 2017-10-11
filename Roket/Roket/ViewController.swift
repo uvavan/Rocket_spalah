@@ -19,7 +19,6 @@ class ViewController: UIViewController {
     var player: AVAudioPlayer?
     
     override func viewDidLoad() {
-        print("first project")
         super.viewDidLoad()
         let path = Bundle.main.path(forResource: "rocket_launch", ofType: "mp3")!
         let url = URL(fileURLWithPath: path)
@@ -29,7 +28,6 @@ class ViewController: UIViewController {
     
     @IBAction func launchPressed(_ sender: UIButton) {
         launchModeView.isHidden = false
-        print("Hello")
         player?.play()
         UIView.animate(withDuration: 3.0, animations: {
             var rocketFrame = self.rocketImage.frame
