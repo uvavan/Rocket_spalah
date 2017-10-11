@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		84BF81E11F8BCCBD00E25BB1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BF81E01F8BCCBD00E25BB1 /* AppDelegate.swift */; };
-		84BF81E31F8BCCBD00E25BB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BF81E21F8BCCBD00E25BB1 /* ViewController.swift */; };
-		84BF81E61F8BCCBD00E25BB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BF81E41F8BCCBD00E25BB1 /* Main.storyboard */; };
-		84BF81E81F8BCCBD00E25BB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BF81E71F8BCCBD00E25BB1 /* Assets.xcassets */; };
-		84BF81EB1F8BCCBD00E25BB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BF81E91F8BCCBD00E25BB1 /* LaunchScreen.storyboard */; };
-		84F8855B1F8BF6BD00E8D260 /* rocket_launch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84F8855A1F8BE9AD00E8D260 /* rocket_launch.mp3 */; };
+		84329EAD1F8DF4340097B4D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84329EAC1F8DF4340097B4D6 /* AppDelegate.swift */; };
+		84329EAF1F8DF4340097B4D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84329EAE1F8DF4340097B4D6 /* ViewController.swift */; };
+		84329EB21F8DF4340097B4D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84329EB01F8DF4340097B4D6 /* Main.storyboard */; };
+		84329EB41F8DF4340097B4D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84329EB31F8DF4340097B4D6 /* Assets.xcassets */; };
+		84329EB71F8DF4340097B4D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84329EB51F8DF4340097B4D6 /* LaunchScreen.storyboard */; };
+		84329EBF1F8DF7910097B4D6 /* rocket_launch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84329EBE1F8DF4750097B4D6 /* rocket_launch.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		84BF81DD1F8BCCBD00E25BB1 /* prog2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = prog2.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		84BF81E01F8BCCBD00E25BB1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		84BF81E21F8BCCBD00E25BB1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		84BF81E51F8BCCBD00E25BB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		84BF81E71F8BCCBD00E25BB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		84BF81EA1F8BCCBD00E25BB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		84BF81EC1F8BCCBD00E25BB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84F8855A1F8BE9AD00E8D260 /* rocket_launch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rocket_launch.mp3; sourceTree = SOURCE_ROOT; };
+		84329EA91F8DF4340097B4D6 /* Roket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Roket.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84329EAC1F8DF4340097B4D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84329EAE1F8DF4340097B4D6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		84329EB11F8DF4340097B4D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84329EB31F8DF4340097B4D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		84329EB61F8DF4340097B4D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84329EB81F8DF4340097B4D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84329EBE1F8DF4750097B4D6 /* rocket_launch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = rocket_launch.mp3; path = ../../rocket_launch.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		84BF81DA1F8BCCBD00E25BB1 /* Frameworks */ = {
+		84329EA61F8DF4340097B4D6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,73 +37,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		84BF81D41F8BCCBD00E25BB1 = {
+		84329EA01F8DF4340097B4D6 = {
 			isa = PBXGroup;
 			children = (
-				84BF81DF1F8BCCBD00E25BB1 /* prog2 */,
-				84BF81DE1F8BCCBD00E25BB1 /* Products */,
+				84329EAB1F8DF4340097B4D6 /* Roket */,
+				84329EAA1F8DF4340097B4D6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		84BF81DE1F8BCCBD00E25BB1 /* Products */ = {
+		84329EAA1F8DF4340097B4D6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				84BF81DD1F8BCCBD00E25BB1 /* prog2.app */,
+				84329EA91F8DF4340097B4D6 /* Roket.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		84BF81DF1F8BCCBD00E25BB1 /* prog2 */ = {
+		84329EAB1F8DF4340097B4D6 /* Roket */ = {
 			isa = PBXGroup;
 			children = (
-				84F8855A1F8BE9AD00E8D260 /* rocket_launch.mp3 */,
-				84BF81E01F8BCCBD00E25BB1 /* AppDelegate.swift */,
-				84BF81E21F8BCCBD00E25BB1 /* ViewController.swift */,
-				84BF81E41F8BCCBD00E25BB1 /* Main.storyboard */,
-				84BF81E71F8BCCBD00E25BB1 /* Assets.xcassets */,
-				84BF81E91F8BCCBD00E25BB1 /* LaunchScreen.storyboard */,
-				84BF81EC1F8BCCBD00E25BB1 /* Info.plist */,
+				84329EBE1F8DF4750097B4D6 /* rocket_launch.mp3 */,
+				84329EAC1F8DF4340097B4D6 /* AppDelegate.swift */,
+				84329EAE1F8DF4340097B4D6 /* ViewController.swift */,
+				84329EB01F8DF4340097B4D6 /* Main.storyboard */,
+				84329EB31F8DF4340097B4D6 /* Assets.xcassets */,
+				84329EB51F8DF4340097B4D6 /* LaunchScreen.storyboard */,
+				84329EB81F8DF4340097B4D6 /* Info.plist */,
 			);
-			path = prog2;
+			path = Roket;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		84BF81DC1F8BCCBD00E25BB1 /* prog2 */ = {
+		84329EA81F8DF4340097B4D6 /* Roket */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84BF81EF1F8BCCBD00E25BB1 /* Build configuration list for PBXNativeTarget "prog2" */;
+			buildConfigurationList = 84329EBB1F8DF4340097B4D6 /* Build configuration list for PBXNativeTarget "Roket" */;
 			buildPhases = (
-				84BF81D91F8BCCBD00E25BB1 /* Sources */,
-				84BF81DA1F8BCCBD00E25BB1 /* Frameworks */,
-				84BF81DB1F8BCCBD00E25BB1 /* Resources */,
+				84329EA51F8DF4340097B4D6 /* Sources */,
+				84329EA61F8DF4340097B4D6 /* Frameworks */,
+				84329EA71F8DF4340097B4D6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = prog2;
-			productName = prog2;
-			productReference = 84BF81DD1F8BCCBD00E25BB1 /* prog2.app */;
+			name = Roket;
+			productName = Roket;
+			productReference = 84329EA91F8DF4340097B4D6 /* Roket.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		84BF81D51F8BCCBD00E25BB1 /* Project object */ = {
+		84329EA11F8DF4340097B4D6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = vitalii;
 				TargetAttributes = {
-					84BF81DC1F8BCCBD00E25BB1 = {
+					84329EA81F8DF4340097B4D6 = {
 						CreatedOnToolsVersion = 9.0;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 84BF81D81F8BCCBD00E25BB1 /* Build configuration list for PBXProject "prog2" */;
+			buildConfigurationList = 84329EA41F8DF4340097B4D6 /* Build configuration list for PBXProject "Roket" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,55 +111,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 84BF81D41F8BCCBD00E25BB1;
-			productRefGroup = 84BF81DE1F8BCCBD00E25BB1 /* Products */;
+			mainGroup = 84329EA01F8DF4340097B4D6;
+			productRefGroup = 84329EAA1F8DF4340097B4D6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				84BF81DC1F8BCCBD00E25BB1 /* prog2 */,
+				84329EA81F8DF4340097B4D6 /* Roket */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		84BF81DB1F8BCCBD00E25BB1 /* Resources */ = {
+		84329EA71F8DF4340097B4D6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84BF81EB1F8BCCBD00E25BB1 /* LaunchScreen.storyboard in Resources */,
-				84F8855B1F8BF6BD00E8D260 /* rocket_launch.mp3 in Resources */,
-				84BF81E81F8BCCBD00E25BB1 /* Assets.xcassets in Resources */,
-				84BF81E61F8BCCBD00E25BB1 /* Main.storyboard in Resources */,
+				84329EB71F8DF4340097B4D6 /* LaunchScreen.storyboard in Resources */,
+				84329EBF1F8DF7910097B4D6 /* rocket_launch.mp3 in Resources */,
+				84329EB41F8DF4340097B4D6 /* Assets.xcassets in Resources */,
+				84329EB21F8DF4340097B4D6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		84BF81D91F8BCCBD00E25BB1 /* Sources */ = {
+		84329EA51F8DF4340097B4D6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84BF81E31F8BCCBD00E25BB1 /* ViewController.swift in Sources */,
-				84BF81E11F8BCCBD00E25BB1 /* AppDelegate.swift in Sources */,
+				84329EAF1F8DF4340097B4D6 /* ViewController.swift in Sources */,
+				84329EAD1F8DF4340097B4D6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		84BF81E41F8BCCBD00E25BB1 /* Main.storyboard */ = {
+		84329EB01F8DF4340097B4D6 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84BF81E51F8BCCBD00E25BB1 /* Base */,
+				84329EB11F8DF4340097B4D6 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		84BF81E91F8BCCBD00E25BB1 /* LaunchScreen.storyboard */ = {
+		84329EB51F8DF4340097B4D6 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				84BF81EA1F8BCCBD00E25BB1 /* Base */,
+				84329EB61F8DF4340097B4D6 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -167,7 +167,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		84BF81ED1F8BCCBD00E25BB1 /* Debug */ = {
+		84329EB91F8DF4340097B4D6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +224,7 @@
 			};
 			name = Debug;
 		};
-		84BF81EE1F8BCCBD00E25BB1 /* Release */ = {
+		84329EBA1F8DF4340097B4D6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -274,30 +274,30 @@
 			};
 			name = Release;
 		};
-		84BF81F01F8BCCBD00E25BB1 /* Debug */ = {
+		84329EBC1F8DF4340097B4D6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LZZ55BGMAK;
-				INFOPLIST_FILE = prog2/Info.plist;
+				INFOPLIST_FILE = Roket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ua.com.vitalii.prog2;
+				PRODUCT_BUNDLE_IDENTIFIER = ua.com.vitalii.Roket;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		84BF81F11F8BCCBD00E25BB1 /* Release */ = {
+		84329EBD1F8DF4340097B4D6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = LZZ55BGMAK;
-				INFOPLIST_FILE = prog2/Info.plist;
+				INFOPLIST_FILE = Roket/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = ua.com.vitalii.prog2;
+				PRODUCT_BUNDLE_IDENTIFIER = ua.com.vitalii.Roket;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,25 +307,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84BF81D81F8BCCBD00E25BB1 /* Build configuration list for PBXProject "prog2" */ = {
+		84329EA41F8DF4340097B4D6 /* Build configuration list for PBXProject "Roket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				84BF81ED1F8BCCBD00E25BB1 /* Debug */,
-				84BF81EE1F8BCCBD00E25BB1 /* Release */,
+				84329EB91F8DF4340097B4D6 /* Debug */,
+				84329EBA1F8DF4340097B4D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84BF81EF1F8BCCBD00E25BB1 /* Build configuration list for PBXNativeTarget "prog2" */ = {
+		84329EBB1F8DF4340097B4D6 /* Build configuration list for PBXNativeTarget "Roket" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				84BF81F01F8BCCBD00E25BB1 /* Debug */,
-				84BF81F11F8BCCBD00E25BB1 /* Release */,
+				84329EBC1F8DF4340097B4D6 /* Debug */,
+				84329EBD1F8DF4340097B4D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 84BF81D51F8BCCBD00E25BB1 /* Project object */;
+	rootObject = 84329EA11F8DF4340097B4D6 /* Project object */;
 }

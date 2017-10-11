@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  prog2
+//  Roket
 //
-//  Created by Admin on 09.10.2017.
+//  Created by Admin on 11.10.2017.
 //  Copyright © 2017 vitalii. All rights reserved.
 //
 
