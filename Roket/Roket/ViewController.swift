@@ -28,6 +28,7 @@ class ViewController: UIViewController {
     
     @IBAction func launchPressed(_ sender: UIButton) {
         launchModeView.isHidden = false
+        print("Hello")
         player?.play()
         UIView.animate(withDuration: 3.0, animations: {
             var rocketFrame = self.rocketImage.frame
