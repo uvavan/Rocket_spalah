@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     var player: AVAudioPlayer?
     
     override func viewDidLoad() {
+        print("first project")
         super.viewDidLoad()
         let path = Bundle.main.path(forResource: "rocket_launch", ofType: "mp3")!
         let url = URL(fileURLWithPath: path)
