@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     @IBAction func launchPressed(_ sender: UIButton) {
         launchModeView.isHidden = false
         player?.play()
-        UIView.animate(withDuration: 3.0, animations: {
+        UIView.animate(withDuration: 2.0, animations: {
             var rocketFrame = self.rocketImage.frame
             rocketFrame.origin.y = 70
             self.rocketImage.frame = rocketFrame
@@ -40,3 +40,4 @@ class ViewController: UIViewController {
         
     }
 }
+
